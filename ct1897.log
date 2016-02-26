@@ -1,3 +1,43 @@
+asn264
+*   5eb1bff Merge branch 'A' into B
+|\  
+| *   bbb8bde 7th commit
+| |\  
+| * | 0a27804 6th commit
+* | |   53a9ddd 8th commit
+|\ \ \  
+| | |/  
+| |/|   
+| * |   d189cbb 5th commit
+| |\ \  
+| | |/  
+| | * de3f9f8 2nd commit
+* | | c73df8c 4th commit
+|/ /  
+* | 2119622 3rd commit
+|/  
+* c8bb338 1st commit
+
+ass502
+*   cc54e8d 9th commit (merge)
+|\  
+| *   8d777ed 7th commit (merge)
+| |\  
+| * | 43f05a3 6th commit (2nd on b1)
+* | |   5cffc69 Merge branch 'master' into b2
+|\ \ \  
+| | |/  
+| |/|   
+| * |   95b9d14 5th commit (merge)
+| |\ \  
+| | |/  
+| | * 78a52bf 2nd commit (1st on b1)
+* | | 18cfa7e 4th commit (1st on b2)
+|/ /  
+* | f3d6d70 3rd commit (2nd on master)
+|/  
+* 86a9f98 1st commit (1st on master)
+
 ct1897
 *   f741c75 9th commit Merge branch 'testing2'
 |\  
